@@ -1,4 +1,4 @@
-# What does this snippet do?
+# What Does This CSS Snippet Do?
 - Modifies existing headers (H1, H2, H3)
 - Adds 3 more headers (H4, H5, H6)
 
@@ -16,8 +16,9 @@
 ## Hide H4, H5, H6 Tags for Less Clutter
 To hide the rems created to use additional headers (H4, H5, H6), copy and paste this code into a separate code block.
 
-> [data-rem-container-tags~="h4"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
-   display: none;
+```
+[data-rem-container-tags~="h4"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
+	display: none;
 }
 [data-rem-container-tags~="h5"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
    display: none;
@@ -25,6 +26,7 @@ To hide the rems created to use additional headers (H4, H5, H6), copy and paste 
 [data-rem-container-tags~="h6"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
    display: none;
 }
+```
 
 ### ❗️Warning
 This makes it so that the only way you can remove the headers is by zooming into the rem tagged with H4/H5/H6 > Deleting the tag from here:

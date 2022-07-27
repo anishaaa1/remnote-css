@@ -1,0 +1,48 @@
+.rem-container--header-1 {
+    --line-height:36px
+}
+.rem-header--1:not(.document-title) {
+	font-size: 1.98rem;
+	font-weight: 700;
+	color: #F4ACB7;
+}
+.rem-container--header-2 {
+    --line-height:32px
+}
+.rem-header--2:not(.document-title) {
+	font-size: 1.78rem;
+	font-weight: 700;
+	color: #BDB2FF;
+}
+.rem-container--header-3 {
+    --line-height:28px
+}
+.rem-header--3:not(.document-title) {
+	font-size: 1.58rem;
+	font-weight: 700;
+	color: #83BCFF;
+}
+[data-rem-tags~="h4"] .rem-container {
+	--line-height: 24px;
+}
+[data-rem-tags~="h4"] .rem-text {
+	font-size: 1.38rem;
+	font-weight: 650;
+	color: #A9DEF9;
+}
+[data-rem-tags~="h5"] .rem-container {
+	--line-height: 20px;
+}
+[data-rem-tags~="h5"] .rem-text {
+	font-size: 1.18em;
+	font-weight: 650;
+	color: #B0F2B4;
+}
+[data-rem-tags~="h6"] .rem-container {
+	--line-height: 16px;
+}
+[data-rem-tags~="h6"] .rem-text {
+	font-size: 0.98rem;
+	font-weight: 650;
+	color: #FDE690;
+}

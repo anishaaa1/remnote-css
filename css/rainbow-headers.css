@@ -1,6 +1,5 @@
-/*
-Author: @anishaaa1 | Git
-*/
+/* Author: @anishaaa1 | Git */
+/* Header 1 */
 .rem-container--header-1 {
     --line-height:36px
 }
@@ -9,6 +8,7 @@ Author: @anishaaa1 | Git
 	font-weight: 700;
 	color: #F4ACB7;
 }
+/* Header 2 */
 .rem-container--header-2 {
     --line-height:32px
 }
@@ -17,6 +17,7 @@ Author: @anishaaa1 | Git
 	font-weight: 700;
 	color: #BDB2FF;
 }
+/* Header 3 */
 .rem-container--header-3 {
     --line-height:28px
 }
@@ -25,6 +26,7 @@ Author: @anishaaa1 | Git
 	font-weight: 700;
 	color: #83BCFF;
 }
+/* Header 4 */
 [data-rem-tags~="h4"] .rem-container {
 	--line-height: 24px;
 }
@@ -33,6 +35,7 @@ Author: @anishaaa1 | Git
 	font-weight: 650;
 	color: #A9DEF9;
 }
+/* Header 5 */
 [data-rem-tags~="h5"] .rem-container {
 	--line-height: 20px;
 }
@@ -41,6 +44,7 @@ Author: @anishaaa1 | Git
 	font-weight: 650;
 	color: #B0F2B4;
 }
+/* Header 6 */
 [data-rem-tags~="h6"] .rem-container {
 	--line-height: 16px;
 }

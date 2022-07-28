@@ -10,7 +10,7 @@
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/68901589/181207417-727b674f-3ca1-463a-b8fd-875a77c849a7.png)
+![image](https://user-images.githubusercontent.com/68901589/181594137-2af5414f-de47-4aa5-a93a-039189046cc4.png)
 
 # Additional
 ## Hide H4, H5, H6 Tags for Less Clutter

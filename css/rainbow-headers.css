@@ -1,11 +1,11 @@
-/* Author: @anishaaa1 | Git */
+/* Author: @anishaaa1 | Github */
 /* Header 1 */
 .rem-container--header-1 {
     --line-height:36px
 }
 .rem-header--1:not(.document-title) {
 	font-size: 1.98rem;
-	font-weight: 700;
+	font-weight: 600;
 	color: #F4ACB7;
 }
 /* Header 2 */
@@ -14,7 +14,7 @@
 }
 .rem-header--2:not(.document-title) {
 	font-size: 1.78rem;
-	font-weight: 700;
+	font-weight: 600;
 	color: #BDB2FF;
 }
 /* Header 3 */
@@ -23,7 +23,7 @@
 }
 .rem-header--3:not(.document-title) {
 	font-size: 1.58rem;
-	font-weight: 700;
+	font-weight: 600;
 	color: #83BCFF;
 }
 /* Header 4 */
@@ -32,7 +32,7 @@
 }
 [data-rem-tags~="h4"] .rem-text {
 	font-size: 1.38rem;
-	font-weight: 650;
+	font-weight: 550;
 	color: #A9DEF9;
 }
 /* Header 5 */
@@ -41,7 +41,7 @@
 }
 [data-rem-tags~="h5"] .rem-text {
 	font-size: 1.18em;
-	font-weight: 650;
+	font-weight: 550;
 	color: #B0F2B4;
 }
 /* Header 6 */
@@ -50,6 +50,6 @@
 }
 [data-rem-tags~="h6"] .rem-text {
 	font-size: 0.98rem;
-	font-weight: 650;
+	font-weight: 550;
 	color: #FDE690;
 }

@@ -1,0 +1,7 @@
+/* Author: @anishaaa1 | Github */
+#hierarchy-editor .rem-bullet__number {
+	color: #ADB5BD;
+}
+.hierarchy-editor--ltr .rem-bullet__number {
+	padding-right: 6px;
+}

@@ -1,0 +1,20 @@
+/* Author: @anishaaa1 | Github */
+/* When Focused */
+#hierarchy-editor .portal-tree-node-box--focused {
+	border-color: #efcfe3;
+}
+/* When Selected */
+#hierarchy-editor .portal-tree-node-box--selected {
+	border-color: #ea9ab2;
+}
+/* When Portal is a Card Item */
+#hierarchy-editor .portal-tree-node-box--card-item:before {
+	border-right-color: lilac;
+	border-right-style: solid;
+	border-left-color: pink;
+	border-left-style: solid;
+}
+/* Transparent When Not Focused */
+#hierarchy-editor .portal-tree-node-box:before {
+	background: transparent;
+}

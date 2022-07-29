@@ -1,0 +1,31 @@
+/* Author: @anishaaa1 | Github */
+/* Red Highlight */
+.highlight-color--red, .pdf-viewer__highlight-container--red .AreaHighlight, .pdf-viewer__highlight-container--red .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+/* Orange Highlight */
+.highlight-color--orange, .pdf-viewer__highlight-container--orange .AreaHighlight, .pdf-viewer__highlight-container--orange .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+/* Yellow Highlight */
+.highlight-color--yellow, .pdf-viewer__highlight-container--yellow .AreaHighlight, .pdf-viewer__highlight-container--yellow .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+/* Green Highlight */
+.highlight-color--green, .pdf-viewer__highlight-container--green .AreaHighlight, .pdf-viewer__highlight-container--green .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+/* Blue Highlight */
+.highlight-color--blue, .pdf-viewer__highlight-container--blue .AreaHighlight, .pdf-viewer__highlight-container--blue .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+/* Purple Highlight */
+.highlight-color--purple, .pdf-viewer__highlight-container--purple .AreaHighlight, .pdf-viewer__highlight-container--purple .Highlight__part {
+	padding: 2px 4px;
+	border-radius: 4px;
+}

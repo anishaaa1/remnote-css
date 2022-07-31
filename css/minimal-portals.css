@@ -20,10 +20,9 @@
 }
 /* When Portal is a Card Item */
 #hierarchy-editor .portal-tree-node-box--card-item:before {
-	border-right-color: lilac;
-	border-right-style: solid;
 	border-left-color: pink;
-	border-left-style: solid;
+	border-left-width: 4px;
+	border-right-style: none;
 }
 /* Transparent When Not Focused */
 #hierarchy-editor .portal-tree-node-box:before {

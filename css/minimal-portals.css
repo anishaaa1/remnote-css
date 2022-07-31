@@ -1,11 +1,22 @@
 /* Author: @anishaaa1 | Github */
-/* When Focused */
-#hierarchy-editor .portal-tree-node-box--focused {
+/* Idle State (No Hover) */
+#hierarchy-editor .portal-tree-node-box {
+	border-radius: 5px;
+	-webkit-transition: border-radius 2s;
+}
+/* On Hover */
+#hierarchy-editor .portal-tree-node-box:hover {
 	border-color: #efcfe3;
+	border-radius: 5px;
+	-webkit-transition: border-radius 2s;
+}
+/* When Focused */
+#hierarchy-editor .portal-tree-node-box--focused, #hierarchy-editor .portal-tree-node-box--focused:hover {
+	border-color: #efffc9;
 }
 /* When Selected */
-#hierarchy-editor .portal-tree-node-box--selected {
-	border-color: #ea9ab2;
+#hierarchy-editor .portal-tree-node-box--selected, #hierarchy-editor .portal-tree-node-box--selected:hover {
+	border-color: #b5e4e9;
 }
 /* When Portal is a Card Item */
 #hierarchy-editor .portal-tree-node-box--card-item:before {

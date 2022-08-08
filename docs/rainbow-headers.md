@@ -17,16 +17,19 @@
 To hide the rems created to use additional headers (H4, H5, H6), copy and paste this code into a separate code block.
 
 ```
-[data-rem-container-tags~="h4"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
+[data-rem-tags~="h4"] .hierarchy-editor__tag-bar {
 	display: none;
 }
-[data-rem-container-tags~="h5"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
+[data-rem-tags~="h5"] .hierarchy-editor__tag-bar {
    display: none;
 }
-[data-rem-container-tags~="h6"]:not([data-rem-container-tags~="show-tags"]) .hierarchy-editor__tag-bar {
+[data-rem-tags~="h6"] .hierarchy-editor__tag-bar {
    display: none;
 }
 ```
+
+For more information on hiding tags:
+See https://forum.remnote.io/t/guide-hiding-tags/4104
 
 ### ❗️Warning
 This makes it so that the only way you can remove the headers is by zooming into the rem tagged with H4/H5/H6 > Deleting the tag from here:

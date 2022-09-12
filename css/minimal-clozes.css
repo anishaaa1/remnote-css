@@ -1,0 +1,17 @@
+/* Author: @anishaaa1 | Github */
+:root {
+  --border-nh: #a5a5a5;
+  --border-h: #f4acb7;
+}
+.cloze {
+	background-color: unset;
+	border-bottom-color: var(--border-nh);
+	border-bottom-width: 1.6px;
+	border-bottom-style: dotted;
+	padding-right: 4px;
+	padding-left: 4px;
+}
+.cloze:hover {
+	border-bottom-style: solid;
+	border-bottom-color: var(--border-h);
+}

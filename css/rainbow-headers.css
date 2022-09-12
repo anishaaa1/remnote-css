@@ -40,7 +40,7 @@
 	--line-height: 20px;
 }
 [data-rem-tags~="h5"] .rem-text {
-	font-size: 1.18em;
+	font-size: 1.22em;
 	font-weight: 550;
 	color: #B0F2B4;
 }
@@ -49,7 +49,7 @@
 	--line-height: 16px;
 }
 [data-rem-tags~="h6"] .rem-text {
-	font-size: 0.98rem;
+	font-size: 1.08rem;
 	font-weight: 550;
 	color: #FDE690;
 }

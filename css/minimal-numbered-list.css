@@ -1,7 +1,8 @@
-/* Author: @anishaaa1 | Github */
+/* Make Serial Number Color Lighter */
 #hierarchy-editor .rem-bullet__number {
 	color: #ADB5BD;
 }
+/* Increase Space Between Serial Number and Text Following It  */
 .hierarchy-editor--ltr .rem-bullet__number {
 	padding-right: 6px;
 }

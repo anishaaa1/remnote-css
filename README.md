@@ -12,7 +12,7 @@
 <!-- Rainbow Headers -->
 ## ✅ Rainbow Headers
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/rainbow-headers.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/rainbow-headers.css");
 ```
 
 <details>
@@ -36,7 +36,7 @@
 <!-- Minimal Clozes -->
 ## ✅ Minimal Clozes
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/minimal-clozes.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/minimal-clozes.css");
 ```
 
 <details>
@@ -48,7 +48,7 @@
 <!-- Minimal Indent Lines -->
 ## ✅ Minimal Indent Lines
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/minimal-indent-lines.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/minimal-indent-lines.css");
 ```
 
 <details>
@@ -60,7 +60,7 @@
 <!-- Minimal Numbered List -->
 ## ✅ Minimal Numbered List
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/minimal-numbered-list.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/minimal-numbered-list.css");
 ```
 
 <details>
@@ -72,7 +72,7 @@
 <!-- Minimal Portals | Notion-Style -->
 ## ✅ Minimal Portals | Notion-Style
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/minimal-portals.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/minimal-portals.css");
 ```
 
 <details>
@@ -92,7 +92,7 @@
 <!-- Rounded Highlights -->
 ## ✅ Rounded Highlights
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/rounded-highlights.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/rounded-highlights.css");
 ```
 
 <details>
@@ -104,7 +104,7 @@
 <!-- Modified Document Title -->
 ## ✅ Modified Document Title
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/modified-document-title.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/modified-document-title.css");
 ```
 <details>
 <summary>Preview</summary>
@@ -115,7 +115,7 @@
 <!-- Capitalized Descriptors -->
 ## ✅ Capitalized Descriptors
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/capitalized-descriptors.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/capitalized-descriptors.css");
 ```
 
 <details>
@@ -127,7 +127,7 @@
 <!-- Increased Text Underline Offset -->
 ## ✅ Increased Text Underline Offset
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/increased-text-underline-offset.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/increased-text-underline-offset.css");
 ```
 
 <details>
@@ -139,7 +139,7 @@
 <!-- Change Color of Rem References [Purple Variant] -->
 ## ✅ Change Color of Rem References [Purple Variant]
 ```css
-@import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/purple-rem-references.css")
+@import url("https://anishaaa1.github.io/remnote-css/css/purple-rem-references.css");
 ```
 
 <details>

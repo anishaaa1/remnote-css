@@ -1,7 +1,13 @@
 # CSS Snippets for RemNote by Anisha
-> **Documentation Status**
-> * ✅ — Complete
-> * ⚠️ — In Progress
+
+**Documentation Status**
+* ✅ Complete
+* ⚠️ In Progress
+
+**Additional Indicators**
+* 🆘 Help Wanted
+
+---
 
 <!-- Rainbow Headers -->
 ## ✅ Rainbow Headers
@@ -64,10 +70,18 @@
 </details>
 
 <!-- Minimal Portals | Notion-Style -->
-## ⚠️ Minimal Portals | Notion-Style
+## ✅ Minimal Portals | Notion-Style
 ```css
 @import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/minimal-portals.css")
 ```
+
+<details>
+<summary>🆘 Known Issues</summary>
+<br>
+
+* Transitions related to hovering in and out of portals glitch at times (**do not fade as intended**, instead, they cut).
+  
+</details>
 
 <details>
 <summary>Preview</summary>
@@ -123,7 +137,7 @@
 </details>
 
 <!-- Change Color of Rem References [Purple Variant] -->
-## ⚠️ Change Color of Rem References [Purple Variant]
+## ✅ Change Color of Rem References [Purple Variant]
 ```css
 @import url ("https://github.com/anishaaa1/remnote-css/blob/main/css/purple-rem-references.css")
 ```

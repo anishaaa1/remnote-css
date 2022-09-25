@@ -8,6 +8,11 @@
 	font-weight: 600;
 	color: #F4ACB7;
 }
+.dark .rem-header--1:not(.document-title) {
+	font-size: 1.98rem;
+	font-weight: 600;
+	color: #F4ACB7;
+}
 /* Header 2 */
 .rem-container--header-2 {
     --line-height:32px
@@ -17,11 +22,21 @@
 	font-weight: 600;
 	color: #BDB2FF;
 }
+.dark .rem-header--2:not(.document-title) {
+	font-size: 1.78rem;
+	font-weight: 600;
+	color: #BDB2FF;
+}
 /* Header 3 */
 .rem-container--header-3 {
     --line-height:28px
 }
 .rem-header--3:not(.document-title) {
+	font-size: 1.58rem;
+	font-weight: 600;
+	color: #83BCFF;
+}
+.dark .rem-header--3:not(.document-title) {
 	font-size: 1.58rem;
 	font-weight: 600;
 	color: #83BCFF;

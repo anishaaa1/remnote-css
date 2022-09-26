@@ -1,0 +1,13 @@
+:root { /* Try one of these to start with. */
+	--purple: #9381ff;
+	--plum: plum;
+	--blue: royalblue;
+	--lightcoral: lightcoral;
+}
+.rem-reference {
+/* To use one of the above color variants, replace --purple in var(--purple) with any of the above.
+For example, to use the light coral color → color: var(--lightcoral) */
+	color: var(--purple);
+/* You can also choose other colors by replacing var(--purple) with the hex code of your chosen color.
+For example, to use white → color: #fff */
+}

@@ -1,13 +1,19 @@
 :root { /* Try one of these to start with. */
+	--plum: plum; /* HEX: #dc9fdd */
 	--purple: #9381ff;
-	--plum: plum;
+	--plumdm: #ffbcff;
 	--blue: royalblue;
 	--lightcoral: lightcoral;
 }
+/* Light Mode */
 .rem-reference {
 /* To use one of the above color variants, replace --purple in var(--purple) with any of the above.
 For example, to use the light coral color → color: var(--lightcoral) */
-	color: var(--purple);
-/* You can also choose other colors by replacing var(--purple) with the hex code of your chosen color.
+	color: var(--plum);
+/* You can also choose other colors by replacing var(--plum) with the hex code of your chosen color.
 For example, to use white → color: #fff */
+}
+/* Dark Mode */
+.dark .rem-reference {
+	color: var(--plumdm);
 }

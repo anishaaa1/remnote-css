@@ -136,10 +136,10 @@
 <img src="images/increased-text-underline-offset.png">
 </details>
 
-<!-- Change Color of Rem References [Purple Variant] -->
-## ✅ Change Color of Rem References [Purple Variant]
+<!-- Change Color of Rem References -->
+## ✅ Change Color of Rem References
 ```css
-@import url("https://anishaaa1.github.io/remnote-css/css/purple-rem-references.css");
+@import url("https://anishaaa1.github.io/remnote-css/css/colored-rem-references.css");
 ```
 
 <details>

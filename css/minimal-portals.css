@@ -1,13 +1,13 @@
 /* Idle State (No Hover) */
 #hierarchy-editor .portal-tree-node-box {
 	border-radius: 5px;
-	-webkit-transition: border-color .35s ease;
+	transition: border-color .35s ease;
 }
 /* On Hover */
 #hierarchy-editor .portal-tree-node-box:hover {
 	border-color: #efcfe3;
 	border-radius: 5px;
-	-webkit-transition: border-color .35s ease;
+	transition: border-color .35s ease;
 }
 /* When Focused */
 #hierarchy-editor .portal-tree-node-box--focused, #hierarchy-editor .portal-tree-node-box--focused:hover {

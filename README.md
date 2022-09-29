@@ -76,14 +76,6 @@
 ```
 
 <details>
-<summary>🆘 Known Issues</summary>
-<br>
-
-* Transitions related to hovering in and out of portals glitch at times (**do not fade as intended**, instead, they cut).
-  
-</details>
-
-<details>
 <summary>Preview</summary>
 <br>
 <img src="images/minimal-portals.gif">

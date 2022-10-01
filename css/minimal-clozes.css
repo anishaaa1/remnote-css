@@ -1,16 +1,21 @@
-/* Author: @anishaaa1 | Github */
 :root {
-  --border-nh: #a5a5a5;
-  --border-h: #f4acb7;
+  --base: #c5c5cc;
+  --main: #b388eb;
 }
 .cloze {
 	background-color: unset;
-	border-bottom-color: var(--border-nh);
-	border-bottom-width: 1.6px;
+	border-bottom-color: var(--base);
+	border-bottom-width: 1.8px;
 	padding-right: 4px;
 	padding-left: 4px;
 }
+/* On Hover */
 .cloze:hover {
 	border-bottom-style: solid;
-	border-bottom-color: var(--border-h);
+	border-bottom-color: var(--main);
 }
+/* Cloze Arrow */
+.rich-text-editor__change-cloze-button {
+	background-color: unset;
+	color: var(--main);
+} 

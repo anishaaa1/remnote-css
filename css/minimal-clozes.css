@@ -1,21 +1,30 @@
 :root {
-  --base: #c5c5cc;
-  --main: #b388eb;
+	--base: #c5c5cc;
+	--dbase: #747676;
+	--main: #b388eb;
 }
 .cloze {
 	background-color: unset;
-	border-bottom-color: var(--base);
 	border-bottom-width: 1.8px;
 	padding-right: 4px;
 	padding-left: 4px;
 }
+.light .cloze {
+	border-bottom-color: var(--base);
+}
+.dark .cloze {
+	border-bottom-color: var(--dbase);
+}
 /* On Hover */
 .cloze:hover {
-	border-bottom-style: solid;
 	border-bottom-color: var(--main);
 }
 /* Cloze Arrow */
-.rich-text-editor__change-cloze-button {
+.rich-text-editor__change-cloze-button, .dark .rich-text-editor__change-cloze-button {
+	background-color: unset;
+	color: var(--main);
+}
+.rich-text-editor__change-cloze-button:hover {
 	background-color: unset;
 	color: var(--main);
 } 

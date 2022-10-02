@@ -11,7 +11,7 @@
 }
 /* When Focused */
 #hierarchy-editor .portal-tree-node-box--focused, #hierarchy-editor .portal-tree-node-box--focused:hover {
-	border-color: #efffc9;
+	border-color: #d9ed92;
 }
 /* When Selected */
 #hierarchy-editor .portal-tree-node-box--selected, #hierarchy-editor .portal-tree-node-box--selected:hover {

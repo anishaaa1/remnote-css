@@ -3,11 +3,13 @@
 	--dbase: #747676;
 	--main: #b388eb;
 }
-.cloze {
+.cloze, .dark .cloze {
+	padding: 1px 4px 2px 4px;
 	background-color: unset;
 	border-bottom-width: 2px;
-	padding-right: 4px;
-	padding-left: 4px;
+	/* Rounded Corners */
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
 }
 .light .cloze {
 	border-bottom-color: var(--base);

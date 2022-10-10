@@ -49,6 +49,11 @@
 	font-weight: 550;
 	color: #A9DEF9;
 }
+.dark [data-rem-tags~="h4"] .rem-text {
+	font-size: 1.38rem;
+	font-weight: 550;
+	color: #A9DEF9;
+}
 /* Header 5 */
 [data-rem-tags~="h5"] .rem-container {
 	--line-height: 20px;
@@ -58,11 +63,21 @@
 	font-weight: 550;
 	color: #B0F2B4;
 }
+.dark [data-rem-tags~="h5"] .rem-text {
+	font-size: 1.22em;
+	font-weight: 550;
+	color: #B0F2B4;
+}
 /* Header 6 */
 [data-rem-tags~="h6"] .rem-container {
 	--line-height: 16px;
 }
 [data-rem-tags~="h6"] .rem-text {
+	font-size: 1.08rem;
+	font-weight: 550;
+	color: #FDE690;
+}
+.dark [data-rem-tags~="h6"] .rem-text {
 	font-size: 1.08rem;
 	font-weight: 550;
 	color: #FDE690;

@@ -1,24 +1,24 @@
 /* Red Highlight */
-.highlight-color--red:not(.rn-editor__rem__tags .highlight-color--red) {
+.highlight-color--red:not(.rn-editor__rem__tags .highlight-color--red):not(.rn-doc-header__tags-bar .highlight-color--red) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }
 /* Orange Highlight */
-.highlight-color--orange:not(.rn-editor__rem__tags .highlight-color--orange) {
+.highlight-color--orange:not(.rn-editor__rem__tags .highlight-color--orange):not(.rn-doc-header__tags-bar .highlight-color--orange) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }
 /* Yellow Highlight */
-.highlight-color--yellow:not(.rn-editor__rem__tags .highlight-color--yellow) {
+.highlight-color--yellow:not(.rn-editor__rem__tags .highlight-color--yellow):not(.rn-doc-header__tags-bar .highlight-color--yellow) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }
 /* Green Highlight */
-.highlight-color--green:not(.rn-editor__rem__tags .highlight-color--green) {
+.highlight-color--green:not(.rn-editor__rem__tags .highlight-color--green):not(.rn-doc-header__tags-bar .highlight-color--green) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }
 /* Blue Highlight */
-.highlight-color--blue:not(.rn-editor__rem__tags .highlight-color--blue) {
+.highlight-color--blue:not(.rn-editor__rem__tags .highlight-color--blue):not(.rn-doc-header__tags-bar .highlight-color--blue) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }
 /* Purple Highlight */
-.highlight-color--purple:not(.rn-editor__rem__tags .highlight-color--purple) {
+.highlight-color--purple:not(.rn-editor__rem__tags .highlight-color--purple):not(.rn-doc-header__tags-bar .highlight-color--purple) {
 	padding: 1px 4px 2px 4px;
 	border-radius: 4px; }

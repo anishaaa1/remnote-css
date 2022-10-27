@@ -30,3 +30,7 @@
 	background-color: unset;
 	color: var(--main);
 } 
+/* Cloze for Latex */
+.rn-editor .latex-node {
+	border: none;
+}

@@ -1,0 +1,13 @@
+/* Extra Card Detail */
+[data-rem-tags~="extra-card-detail"] .hierarchy-editor__tag-bar__tag {
+	font-size: 0px; }
+[data-rem-tags~="extra-card-detail"] .hierarchy-editor__tag-bar__tag:before {
+	font-size: 12px;
+	content: 'ECD'; } 
+
+/* Disable Decendant Cards */
+[data-rem-tags~="disable-descendant-cards"] .hierarchy-editor__tag-bar__tag {
+	font-size: 0px; }
+[data-rem-tags~="disable-descendant-cards"] .hierarchy-editor__tag-bar__tag:before {
+	font-size: 12px;
+	content: '🚫'; } 

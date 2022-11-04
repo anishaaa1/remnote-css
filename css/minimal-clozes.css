@@ -31,6 +31,9 @@
 	color: var(--main);
 } 
 /* Cloze for Latex */
-.rn-editor .latex-node {
+.rn-editor .latex-node:not(.rem-reference .latex-node) {
 	border: none;
+}
+.rem-reference .latex-node {
+	padding: 0px 4px 0px 4px!important;
 }

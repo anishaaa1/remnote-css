@@ -12,8 +12,10 @@ For example, to use the light coral color → color: var(--lightcoral) */
 	color: var(--plum);
 /* You can also choose other colors by replacing var(--plum) with the hex code of your chosen color.
 For example, to use white → color: #fff */
+	padding: 0px!important;
 }
 /* Dark Mode */
 .dark .rem-reference {
 	color: var(--plumdm);
+	padding: 0px!important;
 }

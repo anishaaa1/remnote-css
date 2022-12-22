@@ -8,8 +8,7 @@
 	background-color: unset;
 	border-bottom-width: 2px!important;
 	/* Rounded Corners */
-	border-bottom-left-radius: 4px!important;
-	border-bottom-right-radius: 4px!important;
+	border-radius: 4px!important;
 }
 .light .cloze {
 	border-bottom-color: var(--base);

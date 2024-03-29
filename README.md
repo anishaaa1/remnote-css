@@ -79,6 +79,12 @@ Once you have installed this plugin, you no longer need to keep this CSS snippet
 @import url("https://anishaaa1.github.io/remnote-css/css/custom-pdf-pins-references.css");
 ```
 
+<details>
+<summary>Preview</summary>
+<br>
+<img src="images/custom-pdf-pins-references.png">
+</details>
+
 <!-- Minimal Indent Lines -->
 ## Minimal Indent Lines
 ```css

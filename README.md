@@ -73,6 +73,12 @@ Head to `Plugin Settings` to modify the appearance of your clozes to your prefer
 <br><br>
 Once you have installed this plugin, you no longer need to keep this CSS snippet in Custom CSS as it may interfere with the plugin itself.
 
+<!-- Custom PDF Pins & References  -->
+## Custom PDF Pins & References
+```css
+@import url("https://anishaaa1.github.io/remnote-css/css/custom-pdf-pins-references.css");
+```
+
 <!-- Minimal Indent Lines -->
 ## Minimal Indent Lines
 ```css

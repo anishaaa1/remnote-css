@@ -11,7 +11,7 @@ span.rn-highlight-reference--pin.rn-highlight-reference--pdf > svg  {
 
 /* PDF References */
   .rem-reference--pdf-highlight:before {
-    content: url(https://cdn-icons-png.flaticon.com/16/438/438920.png) /* Replace the URL for a different image */
+    content: url(https://cdn-icons-png.flaticon.com/16/438/438920.png)' ' /* Replace the URL for a different image */
     /* Pdf icons created by DinosoftLabs - Flaticon */ ; }
 
   /* Color of Reference */

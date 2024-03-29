@@ -1,0 +1,21 @@
+/* PDF Pins */
+span.rn-highlight-reference--pin.rn-highlight-reference--pdf > svg  {
+  display: none; }
+
+.rn-highlight-reference--pin.rn-highlight-reference--pdf:before {
+  content: url(https://cdn-icons-png.flaticon.com/16/8304/8304482.png) /* Replace the URL for a different image */
+  /* Pdf icons created by BW Designer - Flaticon */ ; }
+
+.rn-highlight-reference--pin.rn-highlight-reference--pdf {
+  font-size: 0px; }
+
+/* PDF References */
+  .rem-reference--pdf-highlight:before {
+    content: url(https://cdn-icons-png.flaticon.com/16/438/438920.png)' ' /* Replace the URL for a different image */
+    /* Pdf icons created by DinosoftLabs - Flaticon */ ; }
+
+  /* Color of Reference */
+    .rem-reference--pdf-highlight {
+      background: transparent;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: crimson /* Replace with any color */ ; }
